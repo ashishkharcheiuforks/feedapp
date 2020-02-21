@@ -1,0 +1,1 @@
+package com.feedapp.app.data.interfacesinterface MyProductsSearchCallback {    fun startDetailedActivity(id: Int, title: String)}
